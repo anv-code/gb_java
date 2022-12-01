@@ -1,4 +1,5 @@
 // Реализовать простой калькулятор (операции + - / * )
+package seminar_1;
 
 import java.util.Scanner;
 
